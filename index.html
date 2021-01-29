@@ -380,15 +380,18 @@
         background-image: url(images/tild3462-3264-4562-b832-386234376338__logo_fog3_1.webp);
         background-position: center;
         background-size: cover;
-        
-        @media only screen and (max-width: 480px) {
-            #image { 
-                background-image: url(images/tild3462-3264-4562-b832-386234376338__logo_fog3_1mini.webp); 
-            }
-        }
-        
     } 
-    
+
+    @media (max-width: 980px) {
+        .main-block {
+        position: relative;
+        min-height: 650px;
+        height: 100vh;background-image: url(images/tild3462-3264-4562-b832-386234376338__logo_fog3_1mini.webp); 
+        background-position: center;
+        background-size: cover;
+        } 
+    }
+
     .main-content {
         height: 100%;
         display: -webkit-box;
