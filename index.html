@@ -1254,14 +1254,14 @@
 <script type="text/javascript">
     function initPage() {
       AOS.init({
-        duration: 1000
+        duration: 100
       });
     
       $('#t-header .menu-home').addClass('active');
       $('.menu__container, .main-title span, .main-description, .main-block .btn').removeClass('start-pos');
       setTimeout(function () {
         $('.main-bottom').removeClass('hidden');
-      }, 1000);
+      }, 100);
     
       $('.main-block .btn, #rec166147657 .btn').on('click', function () {
         var formId = $(this).data('form-id');
