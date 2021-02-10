@@ -68,7 +68,8 @@ p {
     position: relative;
     height: 60px;
     margin: 0 auto;
-    background: url("https://static.tildacdn.com/tild3361-6333-4732-b762-303461386261/noise_pattern.png");
+    background: url(images/tild3361-6333-4732-b762-303461386261__noise_pattern.webp); 
+    /*background: url("https://static.tildacdn.com/tild3361-6333-4732-b762-303461386261/noise_pattern.png");*/
     
     -webkit-box-shadow: 0 4px 10px rgba(52, 140, 93, 0.2);
     -moz-box-shadow: 0 4px 10px rgba(52, 140, 93, 0.2);
@@ -358,7 +359,9 @@ p {
 }
 
 #allrecords .mui-select>select {
-    background-image: url(https://static.tildacdn.com/tild6661-6464-4936-b236-636462343666/arrow_down.png);
+    
+    background-image: url(images/arrow_down.webp); 
+    /*background-image: url(https://static.tildacdn.com/tild6661-6464-4936-b236-636462343666/arrow_down.png);*/
     background-position-y: 10px;
 }
 
@@ -507,7 +510,8 @@ p {
 
 .mui-form .t-input-group_uw .mui-textfield {
     border-bottom: 1px solid rgba(0, 0, 0, .26);
-    background-image: url(https://static.tildacdn.com/tild3164-6630-4830-a264-613631373334/attach_file.png);
+    background-image: url(images/tild3164-6630-4830-a264-613631373334/attach_file.webp); 
+    /*background-image: url(https://static.tildacdn.com/tild3164-6630-4830-a264-613631373334/attach_file.png);*/
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -751,7 +755,8 @@ p {
 
 
 #rec165764280 {
-    background: url("https://static.tildacdn.com/tild3361-6333-4732-b762-303461386261/noise_pattern.png");
+    background: url(images/noise_pattern.webp); 
+    /*background: url("https://static.tildacdn.com/tild3361-6333-4732-b762-303461386261/noise_pattern.png");*/
 }
 
 #rec166147657, #rec174128763, #rec183008512, #rec185759638, #rec193266989, #rec194057971 {   
