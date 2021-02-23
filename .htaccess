@@ -23,17 +23,11 @@ RewriteRule ^courses-web-development/$ page10155033.html [NC]
 RewriteRule ^contacts$ page10222904.html [NC]
 RewriteRule ^contacts/$ page10222904.html [NC]
 
-RewriteRule ^courses-english$ page11775608.html [NC]
-RewriteRule ^courses-english/$ page11775608.html [NC]
-
 RewriteRule ^thank-you-page$ page13595043.html [NC]
 RewriteRule ^thank-you-page/$ page13595043.html [NC]
 
 RewriteRule ^program-sent$ page13597368.html [NC]
 RewriteRule ^program-sent/$ page13597368.html [NC]
-
-RewriteRule ^open-day-05-12$ page14300355.html [NC]
-RewriteRule ^open-day-05-12/$ page14300355.html [NC]
 
 RewriteRule ^middle-js-developer$ page12554404.html [NC]
 RewriteRule ^middle-js-developer/$ page12554404.html [NC]
