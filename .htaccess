@@ -14,26 +14,17 @@ RewriteRule ^(.*)$ robots_%{HTTP_HOST}.txt [NC,L]
 RewriteRule ^intern$ page10710843.html [NC]
 RewriteRule ^intern/$ page10710843.html [NC]
 
-RewriteRule ^contacts$ page10222904.html [NC]
-RewriteRule ^contacts/$ page10222904.html [NC]
-
 RewriteRule ^careers$ page9896188.html [NC]
 RewriteRule ^careers/$ page9896188.html [NC]
 
 RewriteRule ^courses-web-development$ page10155033.html [NC]
 RewriteRule ^courses-web-development/$ page10155033.html [NC]
 
-RewriteRule ^blog$ page11467421.html [NC]
-RewriteRule ^blog/$ page11467421.html [NC]
+RewriteRule ^contacts$ page10222904.html [NC]
+RewriteRule ^contacts/$ page10222904.html [NC]
 
 RewriteRule ^courses-english$ page11775608.html [NC]
 RewriteRule ^courses-english/$ page11775608.html [NC]
-
-RewriteRule ^middle-js-developer$ page12554404.html [NC]
-RewriteRule ^middle-js-developer/$ page12554404.html [NC]
-
-RewriteRule ^clojure-developer$ page12554511.html [NC]
-RewriteRule ^clojure-developer/$ page12554511.html [NC]
 
 RewriteRule ^thank-you-page$ page13595043.html [NC]
 RewriteRule ^thank-you-page/$ page13595043.html [NC]
@@ -44,11 +35,20 @@ RewriteRule ^program-sent/$ page13597368.html [NC]
 RewriteRule ^open-day-05-12$ page14300355.html [NC]
 RewriteRule ^open-day-05-12/$ page14300355.html [NC]
 
+RewriteRule ^middle-js-developer$ page12554404.html [NC]
+RewriteRule ^middle-js-developer/$ page12554404.html [NC]
+
+RewriteRule ^clojure-developer$ page12554511.html [NC]
+RewriteRule ^clojure-developer/$ page12554511.html [NC]
+
 RewriteRule ^project-manager$ page15203575.html [NC]
 RewriteRule ^project-manager/$ page15203575.html [NC]
 
-RewriteRule ^vue-node-developer$ page16206186.html [NC]
-RewriteRule ^vue-node-developer/$ page16206186.html [NC]
+RewriteRule ^full-stack-js-developer$ page17406342.html [NC]
+RewriteRule ^full-stack-js-developer/$ page17406342.html [NC]
+
+RewriteRule ^middle-vue-js-developer$ page17541258.html [NC]
+RewriteRule ^middle-vue-js-developer/$ page17541258.html [NC]
 
 RewriteRule ^favicon.ico$ https://static.tildacdn.com/tild3466-6532-4963-b762-373432376264/favicon_2.ico [R=302,L]
 
